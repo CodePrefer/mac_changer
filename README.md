@@ -1,4 +1,4 @@
-<h1>Mac Changer</h1>
+<h1>Mac_Changer</h1>
 </h2>Python implementation of MAC address changer.</h2>
 
 
